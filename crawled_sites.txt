@@ -1,0 +1,23 @@
+        'https://bitcointalk.org/index.php?board=1.0', # Bitcoin Discussion
+        'https://bitcointalk.org/index.php?board=6.0', # Development & Techincal Discussion
+        'https://bitcointalk.org/index.php?board=14.0', # Mining
+        'https://bitcointalk.org/index.php?board=4.0', # Bitcoin Technical Support
+        'https://bitcointalk.org/index.php?board=12.0', # Project Development
+        'https://bitcointalk.org/index.php?board=7.0', # Economics 
+        'https://bitcointalk.org/index.php?board=5.0', # Market Place
+        'https://bitcointalk.org/index.php?board=8.0', # Trading Discussion
+        'https://bitcointalk.org/index.php?board=24.0', # Meta
+        'https://bitcointalk.org/index.php?board=34.0', # Politics & Society
+        'https://bitcointalk.org/index.php?board=39.0', # Beginners & Help
+        'https://bitcointalk.org/index.php?board=9.0', # Off-topic
+        'https://bitcointalk.org/index.php?board=250.0', # Serious Discussion
+        'https://bitcointalk.org/index.php?board=67.0', # Altcoin Discussion
+        'https://bitcointalk.org/index.php?board=159.0', # Announcements (Altcoins)
+        'https://bitcointalk.org/index.php?board=160.0', # Mining (Altcoins)
+        'https://bitcointalk.org/index.php?board=199.0', # Pools (Altcoins)
+        'https://bitcointalk.org/index.php?board=161.0', # Marketplace (Altcoins)
+        'https://bitcointalk.org/index.php?board=197.0', # Service Announcements (Altcoins)
+        'https://bitcointalk.org/index.php?board=198.0', # Service Discussion (Altcoins)
+'https://bitcointalk.org/index.php?board=238.0', # Bounties (Altcoins)
+'https://bitcointalk.org/index.php?board=224.0', # Speculation (Altcoins)
+        
