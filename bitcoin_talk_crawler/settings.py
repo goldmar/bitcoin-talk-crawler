@@ -7,10 +7,10 @@
 #     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
-BOT_NAME = 'bitcointalk_crawler'
+BOT_NAME = 'bitcoin_talk_crawler'
 
-SPIDER_MODULES = ['bitcointalk_crawler.spiders']
-NEWSPIDER_MODULE = 'bitcointalk_crawler.spiders'
+SPIDER_MODULES = ['bitcoin_talk_crawler.spiders']
+NEWSPIDER_MODULE = 'bitcoin_talk_crawler.spiders'
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'tutorial (+http://www.yourdomain.com)'
@@ -68,7 +68,7 @@ DOWNLOADER_MIDDLEWARES = {
 	# activate http proxy (turn on proxy)
 	# 'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware': 110,
 	# call the middleware to customize the http proxy  (set proxy to 'http://127.0.0.1:8118')
-	# 'bitcointalk_crawler.middlewares.ProxyMiddleware': 100,
+	# 'bitcoin_talk_crawler.middlewares.ProxyMiddleware': 100,
 }
 
 # Enable or disable extensions
