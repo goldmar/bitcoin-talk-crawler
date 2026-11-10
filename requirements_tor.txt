@@ -1,0 +1,2 @@
+-r requirements.txt
+toripchanger==1.3.0
